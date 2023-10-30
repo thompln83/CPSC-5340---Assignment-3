@@ -3,6 +3,8 @@
 //
 // Copyright © 2023 Auburn University.
 // All Rights Reserved.
+//
+// Lauren Thompson CPSC5430 October - November 2023
 
 
 import SwiftUI
