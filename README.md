@@ -1,7 +1,7 @@
 CPSC 5340 - Mobile Applications Development 2: 
-Api-Assignment-3
+# Api-Assignment-3
 
-Assignment Instructions:
+# Assignment Instructions:
 - Develop using SwiftUI and MVVM pattern.
 - It does NOT have to be as complex as the ParksApp. 
 - A simple app that reads a few fields should be enough.
