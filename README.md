@@ -1,4 +1,4 @@
-# CPSC 5340 - Mobile Applications Development 2: 
+CPSC 5340 - Mobile Applications Development 2: 
 Api-Assignment-3
 
 Assignment Instructions:
@@ -13,7 +13,7 @@ Assignment Instructions:
 Screenshot of Assignment 3
 
 
-# Screenshots of Assignment 3 
+Screenshots of Assignment 3 
 
 <!-- <img src = "https://github.com/CPSC-5340/cryptoconvert-assignment2-thompln83/blob/075747c8d476aac02974c9bef20067f2579a76e5/Docs/CryptoConvertApp%20Home%20Screen%20.png"> -->
 
