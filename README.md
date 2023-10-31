@@ -1,3 +1,29 @@
+# CPSC 5340 - Mobile Applications Development 2: 
+Api-Assignment-3
+
+Assignment Instructions:
+- Develop using SwiftUI and MVVM pattern.
+- It does NOT have to be as complex as the ParksApp. 
+- A simple app that reads a few fields should be enough.
+-  Use MVVM pattern and SwiftUI.
+
+:white_check_mark: `Complete` <br/>
+:grey_exclamation: `Finished Project`
+
+Screenshot of Assignment 3
+
+
+# Screenshots of Assignment 3 
+
+<!-- <img src = "https://github.com/CPSC-5340/cryptoconvert-assignment2-thompln83/blob/075747c8d476aac02974c9bef20067f2579a76e5/Docs/CryptoConvertApp%20Home%20Screen%20.png"> -->
+
+Project completed by: Auburn University Student for CPSC 5430 - Mobile Applications Development 2 (Fall 2023)
+
+Skeleton Code README.md below
+-------------------------------------------------------------------------------------------------------------
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0yDFJzJy)
 # Assignment3
 ![alt text](https://github.com/CPSC-5340/Assignment3/blob/main/Docs/banner_au.png?raw=true)
