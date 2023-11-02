@@ -6,17 +6,29 @@
 //
 // Lauren Thompson CPSC5430 October - November 2023
 
-
 import SwiftUI
 
 @main
 struct Assignment3App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                MainInputView()
+            }
         }
     }
 }
+
+//import SwiftUI
+//
+//@main
+//struct Assignment3App: App {
+//    var body: some Scene {
+//        WindowGroup {
+//            ContentView()
+//        }
+//    }
+//}
 
 
 // Assignment3App Directory: 
@@ -25,12 +37,13 @@ struct Assignment3App: App {
 // |-- Assignment3App.swift
 // |
 // |-View
-// |-- ContentView.swift
-// |-- RecipeDetailView.swift
+// |-- ContentView.swift        // Default - Removing* ?
+// |-- RecipeDetailView.swift   // view for showing recipe details
+// |-- MainInputView.swift      // Main view for input and listing recipes
 // |
 // |- ViewModel
 // |-- RecipeViewModel.swift
 // |
 // |-Models
-// |-- RecipeModel.swift
-
+// |-- RecipeViewModel.swift    // Recipe view model for data fetching and
+// |
