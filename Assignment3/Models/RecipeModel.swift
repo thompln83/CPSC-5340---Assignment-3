@@ -8,15 +8,22 @@
 
 import Foundation
 
-// Struct to hold the Recipe data
 struct Recipe: Identifiable, Decodable {
-    var id: Int
-    var title: String
-    var image: String
-    var usedIngredientCount: Int
-    var usedIngredients: [String]?
-    var instructions: String?
+    let id: Int
+    let title: String
+    let image: String
+    let usedIngredientCount: Int
 }
+
+//// Struct to hold the Recipe data
+//struct Recipe: Identifiable, Decodable {
+//    var id: Int
+//    var title: String
+//    var image: String
+//    var usedIngredientCount: Int
+//    //var usedIngredients: [String]?
+//    //var instructions: String?
+//}
 
 // Struct to hold the Recipe data
 //struct Recipe: Identifiable, Decodable {

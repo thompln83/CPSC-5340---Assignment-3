@@ -19,18 +19,6 @@ struct Assignment3App: App {
     }
 }
 
-//import SwiftUI
-//
-//@main
-//struct Assignment3App: App {
-//    var body: some Scene {
-//        WindowGroup {
-//            ContentView()
-//        }
-//    }
-//}
-
-
 // Assignment3App Directory: 
 
 // Assignment3App/
